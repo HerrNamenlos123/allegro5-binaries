@@ -1,0 +1,3 @@
+[submodule "modules/allegro5-build"]
+	path = modules/allegro5-build
+	url = https://github.com/HerrNamenlos123/allegro5-build.git
