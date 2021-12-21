@@ -2,6 +2,6 @@
 
 ALLEGRO5_INCLUDE_DIRS = { "_SCRIPT_DIR .. "/include", _SCRIPT_DIR .. "/src"" }
 
-ALLEGRO5_LINK_DIRS = { "_SCRIPT_DIR .. "/bin/" }
+ALLEGRO5_LINK_DIRS = { _SCRIPT_DIR .. "/bin/" }
 
 ALLEGRO5_LINKS = { "allegro_monolith-static", "freetype", "libpng", "zlib" }
